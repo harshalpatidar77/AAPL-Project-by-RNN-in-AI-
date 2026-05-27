@@ -29,7 +29,7 @@ To build a time-series forecasting model that can predict future stock prices ba
 
 ## Model Used
 * Recurrent Neural Network (RNN)
-* LSTM (Long Short-Term Memory) (recommended if used)
+* LSTM (Long Short-Term Memory) 
 
 ## Workflow
 * Data collection from Kaggle
